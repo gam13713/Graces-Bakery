@@ -20,7 +20,7 @@ header {
 nav {
   float: left;
   width: 30%;
-  height: 1000px; /* only for demonstration, should be removed */
+  height: 1400px; /* only for demonstration, should be removed */
   background: #f9edb1;
   padding: 20px;
 }
@@ -36,7 +36,7 @@ article {
   padding: 20px;
   width: 62%;
   background-color: #c1eca9;
-  height: 1000px; /* only for demonstration, should be removed */
+  height: 1400px; /* only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
